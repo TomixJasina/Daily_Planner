@@ -21,7 +21,7 @@ Link to live project: https://tomixjasina.github.io/Daily_Planner/
 
 1. Go to the app in your web browser.
 2. Type events in colored time blocks
-3. Events will be saved to local storage after clicking `Save` button on right.
+3. Events will be saved to local storage after clicking `Save` button on the right side.
 4. After refreshing the page saved events will be listed in the same time blocks.
 
 ![tomixjasina github io_Daily_Planner_](https://github.com/TomixJasina/Daily_Planner/assets/148002314/7c96c831-bd4a-45a0-90a1-149d33762ef6)
