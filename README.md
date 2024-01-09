@@ -2,7 +2,7 @@
 
 ## 1. Description
 
-This project is a  offers a streamlined and user-friendly digital scheduler. With a clean interface, it enables efficient organization of daily tasks for users. Utilizing HTML, CSS, and jQuery, this planner allows dynamic content updates, providing a responsive experience. The layout accommodates easy input for events and schedules, employing Day.js for precise time management. Users can seamlessly plan their day, aided by features that facilitate smooth navigation and intuitive interactions.
+This project offers a streamlined and user-friendly digital scheduler. With a clean interface, it enables efficient organization of daily tasks for users. Utilizing HTML, CSS, and jQuery, this planner allows dynamic content updates, providing a responsive experience. The layout accommodates easy input for events and schedules, employing Day.js for precise time management. Users can seamlessly plan their day, aided by features that facilitate smooth navigation and intuitive interactions.
 
 ## 2. Installation
 
