@@ -6,6 +6,12 @@ function setCurrentDay() {
     $("#currentDay").text(currentDate);
 };
 
+// function to initiate webpage
+function init(){
+    setCurrentDay();
+    rowsList();
+};
+
 // create adn list timeblocks
 function rowsList(){
     for (let hour = 9; hour <= 17; hour++){
@@ -44,8 +50,10 @@ function createRow(rowHour) {
     textCol.addClass('past');
     } else {
     textCol.addClass('future');
-    }
+    };
 
     newRow.append(hourCol, textCol, buttonCol);
     return newRow;
-}
+};
+
+init();
