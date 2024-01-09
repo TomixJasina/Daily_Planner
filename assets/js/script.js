@@ -6,6 +6,14 @@ function setCurrentDay() {
     $("#currentDay").text(currentDate);
 };
 
+// create adn list timeblocks
+function rowsList(){
+    for (let hour = 9; hour <= 17; hour++){
+        let rows = createRow(hour);
+        $('#timeBlocks').append(rows);
+        }
+};
+
 // function to create each element of timeblock
 function createRow(rowHour) {
 
